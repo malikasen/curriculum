@@ -145,5 +145,4 @@ Find a partner and discuss the following:
 ### Supplemental Resources
 
 - [The Pac-Man rule](http://ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/)
-- [The Double Opt-In Intro](https://qz.com/457699/youre-probably-doing-email-introductions-wrong/)
 - The 5 Secrets of [Networking](https://www.slideshare.net/ucfaramos/the5-secretsofnetworking/57-Network_TrackingSystem_Start_a_Microsoft) by Angel L. Ramos
